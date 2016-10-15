@@ -2,7 +2,7 @@
 <b><h1>Witaj w BugTrackerze Blackhand.pl</h1></b>
 <p>Ponizej znajduje sie szczegolowa instrukcja jak zglaszac bugi, zapoznaj sie z nia przed zgloszeniem swojego pierwszego bledu.</p>
 <br>
-<p><b>1.</b> Zaloguj/zarejestruj sie na gitlab.com.</p>
+<p><b>1.</b> Zaloguj/zarejestruj sie na github.com.</p>
 <p><b>2.</b> Przejdz do zakladki "Issues": </p>
 <img src="http://blackhand.pl/wod/bugtracker/img_tutorial/1.png">
 <p><b>3. </b> Kliknij w przycisk "New issue":</p>
