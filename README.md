@@ -1,5 +1,5 @@
 <Html>
-<b> <h1> Welcome in Blackhand's bugtracker </ h1> </b>
+<b> <h1> Welcome in Blackhand's BugTracker </h1> </b>
 <p> Below you can find manual on how to report bugs, please read it first before report some bug. </p>
 <br>
 <p> <b> 1 </b> Login/Register to github.com. </p>
