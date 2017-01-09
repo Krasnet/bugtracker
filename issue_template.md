@@ -1,5 +1,5 @@
-Description:
+Description: 
 Current behaviour: 
 Expected behaviour: 
-Steps to reproduce the problem:
+Steps to reproduce the problem: 
 Wowhead link: 
