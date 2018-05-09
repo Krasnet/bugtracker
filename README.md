@@ -15,4 +15,3 @@
 
 
 <p> ID can be find on the <a target="_blank" href="http://wowhead.com"> wowhead.com </a> type the name of the spell, quest, item, etc. After searching the object ID can be taken from the link which was generated, for example: http://www.wowhead.com/item=<font color = red> <b>124228</b></font>/Desecrated-Shadowmoon-insignia&bonus=0, so in this case, the ID of an item "Desecrated Shadowmoon Insignia" is <font color = red><b>124228 </b></font>.</p>
-<Img src = "https://papiezaki.pl/images/sites/328.jpg">
